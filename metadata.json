@@ -1,0 +1,6 @@
+{
+  "name": "Majestic Website Generator",
+  "description": "Generates cinematic, luxurious, and majestic website concepts with custom color identity, editorial typography, atmospheric effects, and interactive showcases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
